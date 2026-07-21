@@ -5,7 +5,7 @@ body {
     }
 
 title {
-    background-image: url("C:\\Users\\david\\Desktop\\1381.jpg");
+    background-image: url("hexagons.jpg");
     max-width: 1000px;
     text-align: center;
     position: sticky;
@@ -15,7 +15,7 @@ title {
 }
 
 nav {
-    background-image: url("C:\\Users\\david\\Desktop\\1381.jpg");
+    background-image: url("hexagons.jpg");
     max-width: 1000px;
     align-items: center;
     text-align: center;
@@ -50,7 +50,7 @@ nav a:hover {
 
 header {
     text-align: center;
-    background-image: url("C:\\Users\\david\\Desktop\\1381.jpg");
+    background-image: url("hexagons.jpg");
     max-width: 1000px;
     color: #4A006C;
     padding: 100px 40px;
@@ -80,7 +80,7 @@ header {
 #skills {
     text-align: center;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
-    background-image: url("C:\\Users\\david\\Desktop\\1381.jpg");
+    background-image: url("hexagons.jpg");
     max-width: 1000px;
     color: #4A006C;
     padding: 100px 40px;
@@ -151,7 +151,7 @@ header {
 
 #contact {
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
-    background-image: url("C:\\Users\\david\\Desktop\\1381.jpg");
+    background-image: url("hexagons.jpg");
     max-width: 1000px;
     padding: 60px;
     margin: 20px 0;
@@ -199,7 +199,7 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-image: url("C:\\Users\\david\\Desktop\\1381.jpg");
+    background-image: url("hexagons.jpg");
     max-width: 1000px;
     color: #4A006C;
     padding: 20px;
