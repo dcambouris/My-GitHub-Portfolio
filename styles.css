@@ -15,10 +15,10 @@ title {
 }
 
 nav {
-    background-image: url("hexagons.jpg");
+    background color: #ffffff;
     max-width: 1000px;
-    align-items: center;
     text-align: center;
+    text-color: #ffffff;
     position: sticky;
     padding: 25px 0;
     margin-bottom: 20px;
